@@ -21,6 +21,8 @@ I'd like to see if a bike is working
 - release a bike
 - see if a bike is working
 
+---
+
 Objects | Messages
 --------| --------
 User
@@ -30,6 +32,6 @@ DockingStation | release_bike
 
 ## Diagram 
 ```
-Bike <-- working? --> true/false
-DockingStation <-- release_bike --> bike
+Bike - working? --> true/false
+DockingStation - release_bike --> bike
 ```
