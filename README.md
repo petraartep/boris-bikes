@@ -4,7 +4,7 @@ London's Boris Bikes are awesome. Anyone can hire out a bike and ride it around 
 
 ## Build status
 
-[![Build Status](https://travis-ci.com/petraartep/boris-bikes.svg?branch=master]link)
+[![Build Status](https://travis-ci.com/petraartep/boris-bikes.svg?branch=master)](https://travis-ci.com/petraartep/boris-bikes)
 
 ## Screenshots
 Include logo/demo screenshot etc.
